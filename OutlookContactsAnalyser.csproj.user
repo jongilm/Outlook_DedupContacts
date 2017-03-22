@@ -1,0 +1,17 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>c:\Users\Jonnie\Documents\_Library\dev\Outlook_DedupContacts\cs_2008\publish\|ftp://dslftp.dsl.pipex.com/jgilmore.eu/utilities/OutlookContactsAnalyser/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.jgilmore.eu/utilities/OutlookContactsAnalyser/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

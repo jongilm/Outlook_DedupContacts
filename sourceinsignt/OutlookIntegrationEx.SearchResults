@@ -1,0 +1,5 @@
+---- LoadContactsThread_AppendToFieldList Matches (4 in 2 files) ----
+MainForm.cs (c:\home\dev\outlook_dedupcontacts\cs_2008):      m_Delegate_LoadContactsThread_AppendToFieldList = new Delegate_LoadContactsThread_AppendToFieldList_t (this.LoadContactsThread_AppendToFieldList);
+MainForm.cs (c:\home\dev\outlook_dedupcontacts\cs_2008):    private void LoadContactsThread_AppendToFieldList(MyField fld)
+MainForm.cs (c:\home\dev\outlook_dedupcontacts\cs_2008):      m_Delegate_LoadContactsThread_AppendToFieldList = new Delegate_LoadContactsThread_AppendToFieldList_t (this.LoadContactsThread_AppendToFieldList);
+MainForm.cs (c:\home\dev\outlook_dedupcontacts\cs_2008):    private void LoadContactsThread_AppendToFieldList(MyField fld)
