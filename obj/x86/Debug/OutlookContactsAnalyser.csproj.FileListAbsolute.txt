@@ -1,0 +1,32 @@
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.csproj.ResolveComReference.cache
+C:\home\dev\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.exe.manifest
+C:\home\dev\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.application
+C:\home\dev\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.exe
+C:\home\dev\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.pdb
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.frmFields.resources
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.frmContactDetails.resources
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.MainForm.resources
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.frmNewContact.resources
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.Properties.Resources.resources
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.csproj.GenerateResource.Cache
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.exe.manifest
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.application
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.exe
+C:\home\dev\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.pdb
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.csproj.ResolveComReference.cache
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.exe
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.pdb
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.exe.manifest
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.application
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.exe
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\bin\x86\Debug\OutlookContactsAnalyser.pdb
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.frmFields.resources
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.frmContactDetails.resources
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.MainForm.resources
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.frmNewContact.resources
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.Properties.Resources.resources
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.csproj.GenerateResource.Cache
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.exe.manifest
+E:\_Library\Visual Studio Projects\Visual Studio 2008\Outlook_DedupContacts\cs_2008\obj\x86\Debug\OutlookContactsAnalyser.application
